@@ -1,5 +1,11 @@
 <h1>Anomaly Detection</h1>
 
+<h3>Deps</h3>
+* Python3 (3.6+ preferred)
+* Pip
+* Numpy
+* Pandas
+
 <h3>About</h3>
 input: 
 text files with pdf headers or decoded pdf's and headers. Text representation of pdf's.
